@@ -1,13 +1,14 @@
-html, body {
-  margin: 0;
-  padding: 0;
-  background-color: black;
+html,
+body {
+	margin: 0;
+	padding: 0;
+	background-color: black;
 }
 main {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 canvas {
-  display: block;
+	display: block;
 }
